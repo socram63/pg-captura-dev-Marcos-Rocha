@@ -94,9 +94,15 @@ footer{
 		max-width: 60%;
     }
     .description h3{
+        font-size: 19px;
+    }
+    .title{
         font-size: 20px;
     }
-   
-   
+    .description{
+        margin: auto;
+		float: none;
+		max-width: 90%;
+    }
         
 }
